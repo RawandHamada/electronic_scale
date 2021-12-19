@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "971089992869",
+    "project_id": "scalemodal",
+    "storage_bucket": "scalemodal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971089992869:android:f15c3787eb9f4bc12bc14c",
+        "android_client_info": {
+          "package_name": "com.modal.electronic_scale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971089992869-0mh2tja0iee59q9o109g08jin5918onb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPt0-dhN5iUJ9JMC50ixU5DhGww3XmQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971089992869-0mh2tja0iee59q9o109g08jin5918onb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971089992869-8978gnio190ggj5i1cqmb3985lislt8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modal.electronicscale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971089992869:android:8d0018b2236b78252bc14c",
+        "android_client_info": {
+          "package_name": "com.modal.electronicadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971089992869-0mh2tja0iee59q9o109g08jin5918onb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPt0-dhN5iUJ9JMC50ixU5DhGww3XmQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971089992869-0mh2tja0iee59q9o109g08jin5918onb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971089992869-8978gnio190ggj5i1cqmb3985lislt8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modal.electronicscale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
